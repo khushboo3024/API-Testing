@@ -1,6 +1,7 @@
 package api_payload;
 
 //User class represents the POJO of the user pay load which is in JSON format
+//comment
 public class User {
 	int id;
 	String username;
